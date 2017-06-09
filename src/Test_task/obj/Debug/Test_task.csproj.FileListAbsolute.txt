@@ -1,0 +1,10 @@
+c:\users\гузель\documents\visual studio 2012\Projects\Test_task\Test_task\bin\Debug\Test_task.exe.config
+c:\users\гузель\documents\visual studio 2012\Projects\Test_task\Test_task\bin\Debug\Test_task.exe
+c:\users\гузель\documents\visual studio 2012\Projects\Test_task\Test_task\bin\Debug\Test_task.pdb
+c:\users\гузель\documents\visual studio 2012\Projects\Test_task\Test_task\obj\Debug\Test_task.csprojResolveAssemblyReference.cache
+c:\users\гузель\documents\visual studio 2012\Projects\Test_task\Test_task\obj\Debug\Test_task.Form1.resources
+c:\users\гузель\documents\visual studio 2012\Projects\Test_task\Test_task\obj\Debug\Test_task.Properties.Resources.resources
+c:\users\гузель\documents\visual studio 2012\Projects\Test_task\Test_task\obj\Debug\Test_task.csproj.GenerateResource.Cache
+c:\users\гузель\documents\visual studio 2012\Projects\Test_task\Test_task\obj\Debug\Test_task.exe
+c:\users\гузель\documents\visual studio 2012\Projects\Test_task\Test_task\obj\Debug\Test_task.pdb
+c:\users\гузель\documents\visual studio 2012\Projects\Test_task\Test_task\obj\Debug\Test_task.Form2.resources
